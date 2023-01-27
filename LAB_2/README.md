@@ -49,6 +49,9 @@
 
 ![Screenshot from 2023-01-27 22-14-52](https://user-images.githubusercontent.com/103090890/215201146-a564447b-2668-47d1-bbca-9c0186440a7b.png)
 ---------
+### Outputs.tf
+
+![Screenshot from 2023-01-27 21-29-47](https://user-images.githubusercontent.com/103090890/215203000-03246c20-7e61-43d7-84cd-5ff7c36a010b.png)
 
 
 # Thank you !
